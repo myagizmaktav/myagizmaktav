@@ -81,7 +81,7 @@
 <details>
   
   <summary>Click to Show Stats</summary>
-<div align="center"><a href="https://discord.com/users/204969203055329281"><img src="https://metrics.lecoq.io/foxsnow38?languages=1&gists=1&followup=1"/></a></div>
+<div align="center"><a href="https://discord.com/users/204969203055329281"><img src="https://metrics.lecoq.io/myagizmaktav?languages=1&gists=1&followup=1"/></a></div>
   
 </details>
   </div>
