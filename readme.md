@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yağız but you can call me Fox</h1>
+<h1  align="center">Hi 👋, I'm Yağız but if you have pronouncation issue can call me Fox</h1>
 <h3 align="center">Jr. Frontend Devoloper</h3>
 
 <p align="center"> 
@@ -68,7 +68,7 @@
 <br/>
 
 <h2 align="center">Github Stats</h2>
-
+<h4  align="center"><a href="https://github.com/foxsnow38">My Old Account</a></h4>
 <div align="center">
 <details>
   
