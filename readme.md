@@ -15,7 +15,6 @@
 <br>
 <a href="https://www.maktavbilisim.com/">maktavbilisim.com</a>
 </p>
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"><a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -44,8 +43,9 @@
             alt="socketio" width="40" height="40" /></a><a href="https://eslint.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
             alt="eslint" width="40" height="40" /> </a>
+             <br/>
+              <br/>
             <h4>Learning:</h4>
-            <br/>
             <a href="https://react-redux.js.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="firebase" width="40" height="40" /> </a>
             </a>
@@ -55,13 +55,21 @@
             <a href="[https://reactnative.dev/](https://firebase.google.com/)" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a>
-       
-        
-        
-       
+               <a href="[[https://reactnative.dev/](https://firebase.google.com/)](https://laravel.com/)" target="_blank"> <img
+            src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
+            alt="laravel" width="40" height="40" /> </a>
+                <a href="[[[[https://reactnative.dev/](https://firebase.google.com/)](https://laravel.com/)](https://www.mysql.com/)" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
+            alt="mysql" width="40" height="40" /> </a>
+           <a href="https://www.php.net/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"
+            alt="php" width="40" height="40" /> </a><a href="https://www.phpmyadmin.net/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"
+            alt="phpmyadmin" width="40" height="40" /> </a>
             
             
-           
+   
+   
           
 </p>
   
