@@ -41,6 +41,12 @@
             <a href="https://eslint.org/" target="_blank" > <img
             src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
             alt="eslint" width="40" height="40" /> </a>
+    <a href="https://www.php.net/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"
+            alt="php" width="40" height="40" /> </a>
+     <a href="https://www.mysql.com/" target="_blank"> <img
+            src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
+            alt="laravel" width="40" height="40" /> </a>
              <br/>
               <br/>
             <h4>Learning:</h4>
@@ -53,23 +59,17 @@
             <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a>
-               <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
-            alt="laravel" width="40" height="40" /> </a>
                 <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" /> </a>
-           <a href="https://www.php.net/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"
-            alt="php" width="40" height="40" /> </a> <a href="https://www.phpmyadmin.net/" target="_blank"> <img
+           <a href="https://www.phpmyadmin.net/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"
             alt="phpmyadmin" width="40" height="40" /> </a>
              <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
             alt="docker" width="40" height="40" /> </a>
             
-            
-   
+           
    
           
 </p>
