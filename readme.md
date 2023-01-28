@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/mehmet-ya%C4%9F%C4%B1z-maktav-692642196/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a>  
 &nbsp;&nbsp;&nbsp;<a href="https://medium.com/@thefoxsnow" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="thefoxsnow" height="45" width="45" /></a>
 <br>
-<a href="https://www.maktavbilisim.com/">maktavbilisim.com</a>
+
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"><a href="https://www.w3.org/html/" target="_blank"> <img
