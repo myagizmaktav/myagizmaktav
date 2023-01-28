@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Yağız but if you have pronouncation issue can call me Fox</h1>
+<h1  align="center">Hi 👋, I'm Yağız</h1>
 <h3 align="center">Jr. Full Stack Devoloper</h3>
 
 <p align="center"> 
