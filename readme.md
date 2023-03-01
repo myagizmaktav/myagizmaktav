@@ -33,9 +33,7 @@
             width="40" height="40" /><a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-            <a href="https://axios-http.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/cb9555f8330e3037435945c6d77f0454646c364a/public/logos/axios.dark.svg"
-            alt="react" width="40" height="40" /> </a> 
+            
              <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
             <a href="https://eslint.org/" target="_blank" > <img
