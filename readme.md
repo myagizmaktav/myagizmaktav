@@ -70,16 +70,6 @@
    
           
 </p>
-  
 <br/>
-
-<h2 align="center">Github Stats</h2>
 <h4  align="center"><a href="https://github.com/foxsnow38">My Old Account</a></h4>
-<div align="center">
-<details>
-  
-  <summary>Click to Show Stats</summary>
-<div align="center"><a href="https://discord.com/users/204969203055329281"><img src="https://metrics.lecoq.io/myagizmaktav?languages=1&gists=1&followup=1"/></a></div>
-  
-</details>
-  </div>
+
