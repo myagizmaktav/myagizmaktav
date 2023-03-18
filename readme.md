@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋, I'm Yağız</h1>
-<h3 align="center">Jr. Full Stack Devoloper</h3>
+<h3 align="center">Jr. Devoloper</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=foxsnow38&label=Profile%20views&color=80ceff&style=flat-square" alt="foxsnowProfileViewCounter" /> 
