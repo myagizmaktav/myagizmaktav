@@ -33,10 +33,7 @@
             alt="react" width="40" height="40" /> </a>
              <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-            <a href="https://eslint.org/" target="_blank" > <img
-            src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
-            alt="eslint" width="40" height="40" /> </a>
-    <a href="https://www.php.net/" target="_blank"> <img
+          <a href="https://www.php.net/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"
             alt="php" width="40" height="40" /> </a>
      <a href="https://www.mysql.com/" target="_blank"> <img
