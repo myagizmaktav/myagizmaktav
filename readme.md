@@ -49,9 +49,6 @@
                 <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" /> </a>
-           <a href="https://www.phpmyadmin.net/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"
-            alt="phpmyadmin" width="40" height="40" /> </a>
              <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
             alt="docker" width="40" height="40" /> </a>
