@@ -37,15 +37,16 @@
      <a href="https://laravel.com/" target="_blank"> <img
             src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"
             alt="laravel" width="40" height="40" /> </a>
+     <a href="https://reactnative.dev/" target="_blank"> <img
+            src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
+            alt="reactnative" width="55" height="55" /> </a>
              <br/>
               <br/>
             <h4>Learning:</h4>
             <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a>
-   <a href="https://reactnative.dev/" target="_blank"> <img
-            src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
-            alt="reactnative" width="55" height="55" /> </a>
+
                 <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" /> </a>
