@@ -45,9 +45,7 @@
             <h4>Learning:</h4>
             <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase" width="40" height="40" /> </a>
-
-                <a href="https://www.mysql.com/" target="_blank"> <img
+            alt="firebase" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" /> </a>
              <a href="https://www.docker.com/" target="_blank"> <img
