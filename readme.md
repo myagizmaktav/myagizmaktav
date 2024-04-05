@@ -59,6 +59,9 @@
              <a href="https://www.portainer.io" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg"
             alt="portainer" width="40" height="40" /> </a>
+             <a href="https://supabase.com" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
+            alt="supabase" width="40" height="40" /> </a>
             
             
            
