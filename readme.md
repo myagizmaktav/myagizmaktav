@@ -12,6 +12,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-ya%C4%9F%C4%B1z-maktav-692642196/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a>  
 &nbsp;&nbsp;&nbsp;<a href="https://medium.com/@thefoxsnow" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="thefoxsnow" height="45" width="45" /></a>
+<a href="https://www.grepper.com/profile/myagizmaktav#" target="blank">  <img src="https://d2441bdvuxbh7t.cloudfront.net/web/images/logo_colors_small.png" height="45" width="45" align="center"></a>
+
 <br>
 
 </p>
@@ -40,6 +42,9 @@
      <a href="https://reactnative.dev/" target="_blank"> <img
             src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
             alt="reactnative" width="55" height="55" /> </a>
+   <a href="https://www.docker.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
+            alt="docker" width="40" height="40" /> </a>
              <br/>
               <br/>
             <h4>Learning:</h4>
@@ -48,9 +53,13 @@
             alt="firebase" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="40" height="40" /> </a>
-             <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
-            alt="docker" width="40" height="40" /> </a>
+             <a href="https://traefik.io" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg"
+            alt="traefik" width="40" height="40" /> </a>
+             <a href="https://www.portainer.io" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg"
+            alt="portainer" width="40" height="40" /> </a>
+            
             
            
    
