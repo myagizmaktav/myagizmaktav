@@ -10,7 +10,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/mehmet-ya%C4%9F%C4%B1z-maktav/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a>  
+<a href="https://www.linkedin.com/in/myagizmaktav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="thefoxsnow" height="40" width="40" /></a>  
 &nbsp;&nbsp;&nbsp;<a href="https://medium.com/@thefoxsnow" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="thefoxsnow" height="45" width="45" /></a>
 <a href="https://www.grepper.com/profile/myagizmaktav#" target="blank">  <img src="https://d2441bdvuxbh7t.cloudfront.net/web/images/logo_colors_small.png" height="45" width="45" align="center"></a>
 
