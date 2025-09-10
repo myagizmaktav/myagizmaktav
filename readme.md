@@ -44,11 +44,7 @@
             alt="reactnative" width="55" height="55" /> </a>
    <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
-            alt="docker" width="40" height="40" /> </a>
-             <br/>
-              <br/>
-            <h4>Learning:</h4>
-            <a href="https://firebase.google.com/" target="_blank"> <img
+            alt="docker" width="40" height="40" /> </a>   <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
@@ -62,7 +58,25 @@
              <a href="https://supabase.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"
             alt="supabase" width="40" height="40" /> </a>
-            
+             <a href="https://www.postgresql.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+            alt="postgress" width="40" height="40" /> </a>
+             <a href="https://hasura.io/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-icon.svg"
+            alt="hasura" width="40" height="40" /> </a>
+             <a href="https://graphql.org" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+            alt="graphql" width="40" height="40" /> </a>
+             <a href="https://svelte.dev" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg"
+            alt="svelte" width="40" height="40" /> </a>
+             <br/>
+              <br/>
+            <h4>Learning:</h4>
+             <a href="https://n8n.io" target="_blank"> <img
+            src="https://raw.githubusercontent.com/bestofjs/bestofjs/refs/heads/master/apps/web/public/logos/n8n.svg"
+            alt="n8n" width="40" height="40" /> </a>
+         
             
            
    
