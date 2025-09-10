@@ -70,6 +70,9 @@
              <a href="https://svelte.dev" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg"
             alt="svelte" width="40" height="40" /> </a>
+             <a href="https://pocketbase.io/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/pocketbase-dark.svg"
+            alt="pocketbase" width="40" height="40" /> </a>
              <br/>
               <br/>
             <h4>Learning:</h4>
